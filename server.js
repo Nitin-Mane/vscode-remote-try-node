@@ -8,8 +8,8 @@
 const express = require('express');
 
 // Constants
-const PORT = 3000;
-const HOST = '0.0.0.0';
+const PORT = 3500;
+const HOST = '127.0.0.1';
 
 // App
 const app = express();
